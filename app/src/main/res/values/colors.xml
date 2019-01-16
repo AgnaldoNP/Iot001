@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#B0BEC5</color>
+
+    <color name="background_loading">#33000000</color>
+    <color name="transp">#00000000</color>
+
+    <color name="black">#000000</color>
+    <color name="black_transp">#a6000000</color>
+    <color name="black_transp2">#68000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="white_transp">#33FFFFFF</color>
+    <color name="white_transp_2">#ccffffff</color>
+    <color name="white_transp_3">#76ffffff</color>/
+    <color name="dark">#42445B</color>
+    <color name="white_text_color_hint">#99ffffff</color>
+    <color name="grey">#555555</color>
+    <color name="dark_grey">#333333</color>
+    <color name="dark_green">#386c47</color>
+    <color name="brown">#3E2723</color>
+    <color name="light_brown">#5D4037</color>
+    <color name="fab_backgroun">#661c20</color>
+    <color name="grey_777">#777777</color>
+    <color name="light_grey">#989CA8</color>
+    <color name="lighter_grey">#AABBBBBB</color>
+    <color name="lighter_grey_background">#F4F4F4</color>
+    <color name="blue">#0FA1E6</color>
+    <color name="dark_blue">#303F9F</color>
+    <color name="dark_blue_transp">#a80b2bf4</color>
+    <color name="blue_transp">#8a8692e1</color>
+    <color name="box_text_color">#624c6b4c</color>
+
+    <color name="text_color">#4c6b4c</color>
+    <color name="text_color_hint">#8d4c6b4c</color>
+    <color name="green">#007600</color>
+    <color name="light_green">#008400</color>
+    <color name="lighter_green">#59a659</color>
+    <color name="lighter_green_trans">#38008400</color>
+    <color name="line_separator">#444c6b4c</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="blue_gray_50">#ECEFF1</color>
+    <color name="blue_gray_100">#CFD8DC</color>
+    <color name="blue_gray_200">#B0BEC5</color>
+    <color name="blue_gray_300">#90A4AE</color>
+    <color name="blue_gray_400">#78909C</color>
+    <color name="blue_gray_500">#607D8B</color>
+    <color name="blue_gray_600">#546E7A</color>
+    <color name="blue_gray_700">#455A64</color>
+    <color name="blue_gray_800">#37474F</color>
+    <color name="blue_gray_900">#263238</color>
+
+</resources>

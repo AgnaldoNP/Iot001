@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IoT 001</string>
+
+    <string name="please_wait">Por favor aguarde …</string>
+    <string name="ok">OK</string>
+    <string name="attention">Atenção</string>
+    <string name="noDataToShow">Sem informação a ser apresentada</string>
+    <string name="image">Imagem</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    <!--login strings-->
+    <string name="login_buttom_enter">Entrar</string>
+    <string name="forgot_your_pass">Esqueceu sua senha?</string>
+    <string name="login_user_input">Usuário</string>
+    <string name="login_pass_input">Senha</string>
+    <string name="login_remember_me">Lembrar usuário</string>
+
+    <string name="login_message_user_or_pass_empty">Para continuar informe seu usuário e senha.</string>
+    <!---->
+
+    <string name="activity_main_menu_home">Início</string>
+    <string name="activity_main_menu_configuration">Configuração</string>
+    <string name="activity_main_menu_about">Sobre</string>
+    <string name="toolbar_menu_add">Adicionar</string>
+    <string name="toolbar_menu_save">Salvar</string>
+    <string name="toolbar_menu_delete">Apagar</string>
+    <string name="toolbar_menu_search">Buscar</string>
+    <string name="toolbar_menu_configuration">Configurações</string>
+
+    <string name="navigation_drawer_open">Abrir menu lateral</string>
+    <string name="navigation_drawer_close">Fechar menu lateral</string>
+
+    <string name="really_exit_question">Realmente deseja sair do aplicativo?</string>
+    <string name="from">De</string>
+    <string name="to">Até</string>
+
+</resources>
